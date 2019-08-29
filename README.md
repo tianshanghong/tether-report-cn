@@ -1,6 +1,6 @@
 # 量化评估Tether的影响
 
-*The Tether Report*中文翻译版
+*The Tether Report* 中文翻译版
 
 原文地址：[Quantifying the Effect of Tether](https://www.tetherreport.com)
 
