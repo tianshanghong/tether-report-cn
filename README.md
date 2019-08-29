@@ -1,4 +1,4 @@
-# 量化评估Tether的影响
+# 量化Tether的影响
 
 *The Tether Report* 中文翻译版
 
