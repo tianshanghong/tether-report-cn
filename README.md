@@ -2,7 +2,7 @@
 
 *The Tether Report* 中文翻译版
 
-**译文说明
+## 译文说明
 
 原文地址：[Quantifying the Effect of Tether](https://www.tetherreport.com)
 
@@ -10,13 +10,13 @@
 
 译文地址：[量化Tether的影响 http://www.tetherreport.cn](http://www.tetherreport.cn)
 
-**译文内容
+## 译文内容
 
 2018年1月24日
 
 作者 - 32E3690D50B3B477DF7841212D4BB938DC9CDB50307618328E7F8B53F37CC1E2
 
-***免责声明
+**免责声明**
 
 本报告中所提供的信息仅供参考。它不应被视为法律或财务建议。您应咨询律师、财务顾问或其他专业人士，以获取最适合您个人需求的内容。
 
