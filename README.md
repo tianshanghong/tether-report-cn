@@ -6,7 +6,7 @@
 
 原文地址：[Quantifying the Effect of Tether](https://www.tetherreport.com)
 
-网页存档：[GitHub](https://github.com/tianshanghong/tether-report-cn/blob/master/archive.html)（2019年8月29日）
+网页存档：[GitHub](https://github.com/tianshanghong/tether-report-cn/tree/master/archive)（2019年8月29日）
 
 译文地址：[量化Tether的影响 http://www.tetherreport.cn](http://www.tetherreport.cn)
 
@@ -42,4 +42,3 @@
  - Tether增发会显著地推动市场发展。在91次不同的Tether到Bitfinex钱包的发放中，**48.8%**的情况比特币的价格会在两小时内上涨。
  - Bitfinex的存取款数据不同寻常，并且会在典型的会计环境中引发进一步的审查。
  - 如果有可疑活动发生，作者认为可以预测比特币的价格会降低**30-80%**。
-
