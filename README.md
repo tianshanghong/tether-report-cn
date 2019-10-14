@@ -53,7 +53,6 @@ Tether发行与比特币价格之间高度相关的增长带来了几个有趣�
 
 ![](https://raw.githubusercontent.com/tianshanghong/tether-report-cn/master/archive/images/image4.jpg)
 
-如果我们不作任何假设并相信Tether的话；在新的USDT被授予之前，新Tether的创建会由存入银行的美元支持，这些购买在出于方便的考量将会直接分发给Bitfinex，以及Tether授予的时间是由市场参与者增加其加密货币持有量的自然行为。
-
+如果我们不作任何假设并相信Tether的话；在新的USDT被授予之前，新Tether的创建会由存入银行的美元支持，这些购买在出于方便的考量将会直接分发给Bitfinex，以及Tether授予的时间是由市场参与者增加其加密货币持有量的自然行为。作为另一种假设，我们问一个问题，Tether是否受到有意义的监管的约束而不受限制地打印USDT，转移到Bitfinex和其他交易所以提高比特币的价格并将BTC和USD返回给Tether/Bitfinex控制的账户，以及这些赠款的时间安排不仅由低于平均价格的波动触发，而且还由比特币价格的高于平均水平的收益触发。我们可以查看可公开获得的市场数据，以检验这两个假设。
 
 
